@@ -147,3 +147,20 @@ background: linear-gradient(90deg, rgba(14,10,42,1) 0%, rgba(31,62,198,1) 0%, rg
         font-size:2rem;
     }
 }
+.pagar{
+    margin-top:10rem;
+}
+.marquee{
+    color:#D3D3D3;
+}
+.momento{
+    font-size:4rem;
+}
+@media(min-width:768px){
+    .momento{
+        font-size:7rem;
+    }
+}
+.contenedor-question{
+    background-color: #25D366;
+}

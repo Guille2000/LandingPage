@@ -164,3 +164,10 @@ background: linear-gradient(90deg, rgba(14,10,42,1) 0%, rgba(31,62,198,1) 0%, rg
 .contenedor-question{
     background-color: #25D366;
 }
+.footer{
+    background-image: url(../img/degradado-footer-liso.png);
+    width:100%;
+   background-position: top center;
+   background-repeat:no-repeat;
+    height:100px;
+}

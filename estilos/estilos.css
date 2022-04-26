@@ -138,6 +138,7 @@ background: linear-gradient(90deg, rgba(14,10,42,1) 0%, rgba(31,62,198,1) 0%, rg
 @media(min-width:768px){
     .contenedor{
         flex-direction: row;
+        align-items: center;
     }
 }
 

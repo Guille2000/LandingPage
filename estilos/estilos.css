@@ -157,6 +157,7 @@ background: linear-gradient(90deg, rgba(14,10,42,1) 0%, rgba(31,62,198,1) 0%, rg
 }
 .marquee{
     color:#D3D3D3;
+    width:100%;
 }
 .momento{
     font-size:4rem;
